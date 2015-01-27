@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-color: #c3c3c3;
+}
+
+#nav-bar {
+    box-shadow: -0px -30px 20px #2a2a2a inset;
+    background-color: #262626;
+
+    position: fixed;
+    width: 100%;
+    height: 100px;
+}
+
+#logo {
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 120px;
+}
+
+#logo-pic {
+    width: 100%;
+    height: 100%;
+}
+
+.nav-btn {
+    background-color: #343434;
+
+    padding: 10px;
+
+    font-size: 2.5vw;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    text-decoration: none;
+}
+
+.nav-btn:visited {
+    color: white;
+}
+
+#hotellet {
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 10%;
+}

@@ -67,6 +67,38 @@ body {
     width: 30%;
     height: 85%;
     margin-top: 7.9%;
+    font-family: "Courier New", courier, monospace;
+}
 
+#hotelopen{
+    color: black;
+    font-size: 20px;
+}
+
+
+#abouthotel{
+    font-size: 20px;
+}
+
+#restaurang-info{
+    position: absolute;
+    width: 30%;
+    height: 85%;
+    margin-top: 7.9%;
+    font-family: "Courier New", courier, monospace;
+}
+
+#restaurangopen{
+    font-size: 20px;
+}
+
+#aboutrestaurang{
+    font-size: 20px;
+}
+
+#restaurang-pics{
+    position: absolute;
+    width: 70%;
+    height: 30%;
     background-color: blue;
 }

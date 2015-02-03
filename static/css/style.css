@@ -96,10 +96,12 @@ body {
     font-size: 20px;
 }
 
-#restaurang-pics{
+#pics{
     position: absolute;
-    margin-left: 30%;
-    width: 70%;
+    margin-left: 35%;
+    margin-top: 8%;
+    width: 65%;
     height: 30%;
     background-color: blue;
+    z-index: -1;
 }

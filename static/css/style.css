@@ -98,6 +98,7 @@ body {
 
 #restaurang-pics{
     position: absolute;
+    margin-left: 30%;
     width: 70%;
     height: 30%;
     background-color: blue;
